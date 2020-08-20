@@ -2,7 +2,6 @@
 
 ### My current endevaours are:
 
-- Learning `Dart` for use with `Flutter`
 - Personal projects mainly, see [here](https://github.com/Skelmis/Personal-Projects)
 
 ---
