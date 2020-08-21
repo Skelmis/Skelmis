@@ -16,3 +16,6 @@ Socials:
 
 `Did I mention im into crytography and cyber security? Crack the above to be able to contact me!`
 > Hint, each line utilise's something different to the others. Whether it be a shift, key or method. Don't get confused when you get one but not the others. They are also all very simple to crack, nothing over the top here. Happy Hunting!
+
+
+`joodicator` -> Feel free to contact me regarding Pycraft on `skelmis.craft@gmail.com`
