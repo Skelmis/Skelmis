@@ -2,6 +2,7 @@
 
 ### My current endevaours are:
 
+- My Discord Anti-Spam package, see [here](https://github.com/Skelmis/DPY-Anti-Spam)
 - Personal projects mainly, see [here](https://github.com/Skelmis/Personal-Projects)
 
 ---
