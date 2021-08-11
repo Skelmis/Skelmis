@@ -11,7 +11,7 @@ I am open to all forms of communication, feel free to add me and ask about anyth
 Socials:
 > wblvhkw: ldxefbl#9135
 
-> V2Vic2l0ZTogdW5zZXJpYWxpemFibGUuY29t
+> Website: aHR0cHM6Ly9rb2xkZnVzaW9uLnh5ei8=
 
 > Email: 145 164 150 141 156 100 153 157 154 144 146 165 163 151 157 156 56 170 171 172
 
