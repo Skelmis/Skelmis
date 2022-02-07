@@ -3,7 +3,7 @@
 ### My current endevaours are:
 
 - My Discord Anti-Spam package, see [here](https://github.com/Skelmis/DPY-Anti-Spam)
-- Personal projects mainly, see [here](https://github.com/Skelmis/Personal-Projects)
+- A bunch of misc things
 
 ---
 
@@ -17,5 +17,3 @@ Socials:
 
 `Did I mention im into crytography and cyber security? Crack the above to be able to contact me!`
 > Hint, each line utilise's something different to the others. Whether it be a shift, key or method. Don't get confused when you get one but not the others. They are also all very simple to crack, nothing over the top here. Happy Hunting!
-
-![Hit Counter](https://komarev.com/ghpvc/?username=skelmis&color=brightgreen)
