@@ -1,9 +1,26 @@
 ---
 
-### My current endevaours are:
+### I like to build cool things which make a difference
 
-- My Discord Anti-Spam package, see [here](https://github.com/Skelmis/DPY-Anti-Spam)
-- A bunch of misc things
+---
+
+#### Discord Anti Spam
+
+A package aimed at realtime spam detection and prevention on discord.
+
+Find it [here](https://github.com/Skelmis/Discord-Anti-Spam)
+
+#### Alaric
+
+Alaric takes interacting with Mongo DB to the next level, with class based support, typed API's and a powerful advanced querying system.
+
+Find it [here](https://github.com/Skelmis/Alaric)
+
+#### Function Cooldowns
+
+A simplistic approach to fully customizable ratelimiting for any async callable.
+
+Find it [here](https://github.com/Skelmis/Function-Cooldowns)
 
 ---
 
