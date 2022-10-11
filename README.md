@@ -4,26 +4,6 @@
 
 ---
 
-#### Discord Anti Spam
-
-A package aimed at realtime spam detection and prevention on discord.
-
-Find it [here](https://github.com/Skelmis/Discord-Anti-Spam)
-
-#### Alaric
-
-Alaric takes interacting with Mongo DB to the next level, with class based support, typed API's and a powerful advanced querying system.
-
-Find it [here](https://github.com/Skelmis/Alaric)
-
-#### Function Cooldowns
-
-A simplistic approach to fully customizable ratelimiting for any async callable.
-
-Find it [here](https://github.com/Skelmis/Function-Cooldowns)
-
----
-
 I am open to all forms of communication, feel free to add me and ask about anything!
 Socials:
 > wblvhkw: ldxefbl#9135
