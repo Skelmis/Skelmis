@@ -13,6 +13,8 @@ My skillset in a sentence: A strong Python developer skilled at building softwar
 ---
 
 I am open to all forms of communication, feel free to add me and ask about anything!
+
+
 Socials:
 > Discord: ldxefbl#9135
 
