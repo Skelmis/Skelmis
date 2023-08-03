@@ -16,7 +16,7 @@ I am open to all forms of communication, feel free to add me and ask about anyth
 
 
 Socials:
-> Discord: ldxefbl#9135
+> Discord: ldxefbl
 
 > Website: aHR0cHM6Ly9za2VsbWlzLmNvLm56Lw==
 
